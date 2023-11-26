@@ -29,7 +29,6 @@ ii)	# To find the maximum marks using the list method max().
 Program to find the maximum marks using the list method max().
 Developed by: ARAVIND R
 RegisterNumber: 2305370
-'''
 def max_marks(marks):
     max1=max(marks)
     return max1
@@ -42,7 +41,6 @@ iii) # To find the maximum marks without using builtin functions.
 Program to the maximum marks without using builtin functions.
 Developed by: ARAVIND R
 RegisterNumber: 23005370
-'''
 def max_marks(list1):
     max=list1[0]
     for i in list1:
